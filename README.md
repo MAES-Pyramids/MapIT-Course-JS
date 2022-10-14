@@ -3,4 +3,4 @@
 - Activities are displayed with brief info on a map based on their location 
 - Activities  are stored on the localStorage of the browsers 
 
-#### You can access hosted site from [Here](https://master--mapit-maes.netlify.app/)
+#### You can access the hosted site from [Here](https://master--mapit-maes.netlify.app/)
